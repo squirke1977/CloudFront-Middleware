@@ -2,3 +2,4 @@
 *.pyc
 *.pkg
 postinstall
+.DS_Store
